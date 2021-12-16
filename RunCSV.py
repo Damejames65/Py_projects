@@ -11,7 +11,7 @@ myVehicle = {
     "zeroSixty" : 0.0,
     "mileage" : 0
 }
-
+# Iterating through CSV
 for key, value in myVehicle.items():
     print("{} : {}".format(key,value))
     
