@@ -22,3 +22,4 @@ def lambda_handler(event, context):
         'TranscriptionJobName':
 response['TranscriptionJob']['TranscriptionJobName']
 }
+#Standard Lambda
